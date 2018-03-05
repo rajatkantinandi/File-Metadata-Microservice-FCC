@@ -1,0 +1,31 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "Returns file size of a submitted file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatkantinandi/File-Metadata-Microservice-FCC.git"
+  },
+  "keywords": [
+    "file",
+    "metadata",
+    "freecodecamp",
+    "backend",
+    "nodejs",
+    "multer"
+  ],
+  "author": "Rajat Kanti Nandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatkantinandi/File-Metadata-Microservice-FCC/issues"
+  },
+  "homepage": "https://github.com/rajatkantinandi/File-Metadata-Microservice-FCC#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
